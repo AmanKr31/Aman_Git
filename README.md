@@ -1,6 +1,6 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
-<h1 align="center">Hi<img src="https://media3.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=ecf05e47o3q4k7laqprqnh89n52pqjbjnjrlefgdtfz3ulzt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">, I'm Ayush Raj <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
+<h1 align="center">Hi<img src="https://media3.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=ecf05e47o3q4k7laqprqnh89n52pqjbjnjrlefgdtfz3ulzt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">, I'm Aman Kumar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width=30>A Coding Aficionado from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif"
 
@@ -12,9 +12,9 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **DSA, Spring Boot and React**
 
-- <img src="https://media0.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif?cid=ecf05e47t6iesdef3fhxvwouzy40uqqidxzpur4qq4i56h08&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> How to reach me: **rajayush1412@gmail.com**
+- <img src="https://media0.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif?cid=ecf05e47t6iesdef3fhxvwouzy40uqqidxzpur4qq4i56h08&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> How to reach me: **amanpvt31@gmail.com**
 
-- <img src="https://media0.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e47hjlp6rt53zeqsd70padxi595bijeohyq9ztxg6mp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Work related queries: **ayush.dev.new@gmail.com**
+- <img src="https://media0.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e47hjlp6rt53zeqsd70padxi595bijeohyq9ztxg6mp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Work related queries: **amanpvt31@gmail.com**
 
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
